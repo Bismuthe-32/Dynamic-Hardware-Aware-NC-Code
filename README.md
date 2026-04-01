@@ -48,5 +48,5 @@ The neural controller augments a traditional PID stack. It receives an estimated
 - Provide a reproducible baseline for on-device neural flight control research
 
 We insipre ourselves from the research paper [Learning to Fly—a Gym Environment with PyBullet Physics for
-Reinforcement Learning of Multi-agent Quadcopter Control](https://arxiv.org/abs/2103.02142), where we use quadcopter physics and the state space models to our advantage to control quadcopter movement.
+Reinforcement Learning of Multi-agent Quadcopter Control](https://arxiv.org/abs/2103.02142) by Panerati et al., where we use quadcopter physics and the state space models to our advantage to control quadcopter movement.
 
